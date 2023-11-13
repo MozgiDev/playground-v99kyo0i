@@ -1,6 +1,6 @@
 # Welcome!
 
-Comment définir une fonction
+## Comment définir une fonction
 
 Pour créer une fonction, rien de plus simple, on utilise la synthaxe suivante :
 
