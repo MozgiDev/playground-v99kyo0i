@@ -1,6 +1,13 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Comment définir une fonction
+
+Pour créer une fonction, rien de plus simple, on utilise la synthaxe suivante :
+
+```python
+def nom_de_la_fonction (parametres):
+    #ce que doit faire la fonction
+```
 
 ```python runnable
 print('Hello World!')
